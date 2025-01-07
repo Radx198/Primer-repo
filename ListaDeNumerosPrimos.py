@@ -9,7 +9,7 @@ def es_primo(i):
 	return False
 	
 
-for i in range (1,100 +1):
+for i in range (1,200 +1):
 	if es_primo(i):
 		primos.append(i)
 print(primos)
